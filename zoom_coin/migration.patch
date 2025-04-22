@@ -1,0 +1,5 @@
+--- ./sources/zoom_coin.move
++++ ./sources/zoom_coin.move
+@@ -4 +4 @@
+-    struct ZoomCoin has key, store {
++    public struct ZoomCoin has key, store {
